@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131191702464",
+    "project_id": "sendbird-f1e53",
+    "storage_bucket": "sendbird-f1e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131191702464:android:74219660483763e2397e25",
+        "android_client_info": {
+          "package_name": "com.sendbird.chat.reactnative.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131191702464-541sl9iotvblbulilg9nhevp43enjrn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wIUEnhKBM8lQcDtiZAJqKsoK5FUGROg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131191702464-541sl9iotvblbulilg9nhevp43enjrn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

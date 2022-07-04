@@ -1,0 +1,31 @@
+{
+  "name": "Sample-JS-Web-Live-Chat",
+  "version": "1.0.0",
+  "description": "Sendbird Live Chat",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "./node_modules/.bin/webpack-dev-server",
+    "build": "./node_modules/.bin/webpack --mode=production",
+    "start": "npm run build && node server.js"
+  },
+  "author": "SendBird",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-polyfill": "^6.26.0",
+    "css-loader": "^5.0.1",
+    "eslint": "^7.18.0",
+    "eslint-loader": "^2.1.1",
+    "node-sass": "^5.0.0",
+    "prettier": "^2.2.1",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.15.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {}
+}
